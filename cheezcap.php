@@ -1,6 +1,6 @@
 <?php
 /**
- * CheezCap - Cheezburger Custom Administration Panel
+ * CheezCap - Cheezburger Custom WordPress Administration Panel
  * (c) 2008 - 2011 Cheezburger Network (Pet Holdings, Inc.)
  * LOL: http://cheezburger.com
  * Source: http://github.com/cheezburger/cheezcap
